@@ -18,7 +18,7 @@ dotnet add TomsOutdoorSurplusSln/OutdoorProducts.Tests reference TomsOutdoorSurp
 ```
 ## Step 2 
 Project running after inital configuration
-
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore1.png)
 ## Step 3
 
 ## Step 4
