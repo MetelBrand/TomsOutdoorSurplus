@@ -20,5 +20,25 @@ dotnet add TomsOutdoorSurplusSln/OutdoorProducts.Tests reference TomsOutdoorSurp
 Project running after inital configuration
 ![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore1.png)
 ## Step 3
+*What is Entity Framework?*
 
+It is Microsoft's Object-to-Relational Mapping (ORM) framework. It is used to link databases and web applications together.
+
+*What is a Connection String?*
+
+A connection string points your code toward a database to migrate to. It is comprised of all the applicable information to connect to and access the database.
+
+*What is a Database Context?*
+
+While connection strings allow for connection, Database Context is essentially a specific reference
+to the database that allows integration of the program Models to the database tables.
+
+*What is a Model Repository?*
+
+The repository layer separates the Business layer from the Data Access Layer.
+
+*Migration vs Scaffolding?*
+
+Migration parses the C# Model data and plugs it into a database; Scaffolding takes a database and
+generates model code off of the data that adheres to MVC conventions.
 ## Step 4
