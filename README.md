@@ -41,4 +41,22 @@ The repository layer separates the Business layer from the Data Access Layer.
 
 Migration parses the C# Model data and plugs it into a database; Scaffolding takes a database and
 generates model code off of the data that adheres to MVC conventions.
+
+*Seeding the database:*
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStoreStep4.0.png)
 ## Step 4
+Added page links, tests and styling
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%20Step%204.1.png)
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%20Step%204.2.png)
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%20Step%204.3.png)
+
+## Chapter 8
+### Step 2: Add, Filter, and Highlight Category
+
+
+
+
+
+
+
+
