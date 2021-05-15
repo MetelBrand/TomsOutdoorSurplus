@@ -52,8 +52,12 @@ Added page links, tests and styling
 
 ## Chapter 8
 ### Step 2: Add, Filter, and Highlight Category
-
-
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%208.0.png)
+### Step 3: Add Shopping Cart and Session data
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%208.1.png)
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%208.2.png)
+### Step 4: Expanded Test Explorer Displaying All Unit Tests
+![image](https://github.com/MetelBrand/TomsOutdoorSurplus/blob/master/Images/sportsStore%208.3.png)
 
 
 
